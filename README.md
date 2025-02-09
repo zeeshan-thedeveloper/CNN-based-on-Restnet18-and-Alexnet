@@ -1,5 +1,12 @@
 # CNN-based-on-Restnet18-and-Alexnet
 
+Training dataset: https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
+Trained model AlexNet: https://drive.google.com/file/d/1P5hMpahQOj8-flyDvIdWKSlGDPTyOLNb/view?usp=sharing
+
+Trained model RestNet18 : https://drive.google.com/file/d/1P5hMpahQOj8-flyDvIdWKSlGDPTyOLNb/view?usp=sharing
+
+
 This repository contains implementations of Convolutional Neural Networks (CNNs) based on ResNet18 and AlexNet architectures. These implementations are done using Jupyter Notebooks, which provide an interactive environment for developing and testing deep learning models.
 
 ## Table of Contents
@@ -68,6 +75,9 @@ We welcome contributions to the `CNN-based-on-Restnet18-and-Alexnet` repository.
 3. Commit your changes.
 4. Push the branch to your forked repository.
 5. Create a Pull Request to the main repository.
+
+Presentation + other resources : https://docs.google.com/presentation/d/e/2PACX-1vQsKJncBm6Kr0QgM0hjmgfhBBm0b6SSVcQsGgM08Artp55liOY3bVkVFQrwTad-Cg/pub?start=false&loop=false&delayms=3000
+
 
 ## License
 
