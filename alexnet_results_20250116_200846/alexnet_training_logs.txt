@@ -1,0 +1,902 @@
+Training and Validation Logs for AlexNet
+==================================================
+
+Epoch [1/10]
+Step [10/655], Loss: 1.1857, Batch Time: 0.99 seconds
+Step [20/655], Loss: 0.4246, Batch Time: 0.93 seconds
+Step [30/655], Loss: 0.2926, Batch Time: 1.04 seconds
+Step [40/655], Loss: 0.4041, Batch Time: 1.06 seconds
+Step [50/655], Loss: 0.2882, Batch Time: 1.02 seconds
+Step [60/655], Loss: 0.5911, Batch Time: 1.14 seconds
+Step [70/655], Loss: 0.2928, Batch Time: 0.91 seconds
+Step [80/655], Loss: 0.6612, Batch Time: 0.99 seconds
+Step [90/655], Loss: 0.2117, Batch Time: 1.26 seconds
+Step [100/655], Loss: 0.3777, Batch Time: 1.01 seconds
+Step [110/655], Loss: 0.4287, Batch Time: 0.91 seconds
+Step [120/655], Loss: 0.4361, Batch Time: 1.28 seconds
+Step [130/655], Loss: 0.3169, Batch Time: 1.00 seconds
+Step [140/655], Loss: 0.3713, Batch Time: 1.16 seconds
+Step [150/655], Loss: 0.2284, Batch Time: 0.95 seconds
+Step [160/655], Loss: 0.6237, Batch Time: 1.00 seconds
+Step [170/655], Loss: 0.3925, Batch Time: 1.04 seconds
+Step [180/655], Loss: 0.1407, Batch Time: 0.83 seconds
+Step [190/655], Loss: 0.3172, Batch Time: 0.97 seconds
+Step [200/655], Loss: 0.3098, Batch Time: 1.04 seconds
+Step [210/655], Loss: 0.3491, Batch Time: 0.98 seconds
+Step [220/655], Loss: 0.4506, Batch Time: 0.91 seconds
+Step [230/655], Loss: 0.2883, Batch Time: 1.00 seconds
+Step [240/655], Loss: 0.6472, Batch Time: 1.01 seconds
+Step [250/655], Loss: 0.3262, Batch Time: 1.59 seconds
+Step [260/655], Loss: 0.3002, Batch Time: 1.81 seconds
+Step [270/655], Loss: 0.2511, Batch Time: 0.95 seconds
+Step [280/655], Loss: 0.3354, Batch Time: 1.01 seconds
+Step [290/655], Loss: 0.2371, Batch Time: 1.41 seconds
+Step [300/655], Loss: 0.4855, Batch Time: 1.60 seconds
+Step [310/655], Loss: 0.3667, Batch Time: 0.96 seconds
+Step [320/655], Loss: 0.2142, Batch Time: 1.60 seconds
+Step [330/655], Loss: 0.2900, Batch Time: 1.04 seconds
+Step [340/655], Loss: 0.4740, Batch Time: 1.22 seconds
+Step [350/655], Loss: 0.4566, Batch Time: 1.01 seconds
+Step [360/655], Loss: 0.3082, Batch Time: 1.02 seconds
+Step [370/655], Loss: 0.3816, Batch Time: 0.94 seconds
+Step [380/655], Loss: 0.2288, Batch Time: 1.13 seconds
+Step [390/655], Loss: 0.5449, Batch Time: 1.66 seconds
+Step [400/655], Loss: 0.3641, Batch Time: 1.00 seconds
+Step [410/655], Loss: 0.3485, Batch Time: 1.00 seconds
+Step [420/655], Loss: 0.6560, Batch Time: 1.35 seconds
+Step [430/655], Loss: 0.5748, Batch Time: 0.96 seconds
+Step [440/655], Loss: 0.6514, Batch Time: 0.94 seconds
+Step [450/655], Loss: 0.2410, Batch Time: 1.03 seconds
+Step [460/655], Loss: 0.3455, Batch Time: 0.98 seconds
+Step [470/655], Loss: 0.3585, Batch Time: 0.98 seconds
+Step [480/655], Loss: 0.3008, Batch Time: 1.01 seconds
+Step [490/655], Loss: 0.3989, Batch Time: 0.94 seconds
+Step [500/655], Loss: 0.8010, Batch Time: 0.80 seconds
+Step [510/655], Loss: 0.2370, Batch Time: 1.85 seconds
+Step [520/655], Loss: 0.2104, Batch Time: 1.00 seconds
+Step [530/655], Loss: 0.3620, Batch Time: 0.97 seconds
+Step [540/655], Loss: 0.1401, Batch Time: 1.00 seconds
+Step [550/655], Loss: 0.2762, Batch Time: 2.08 seconds
+Step [560/655], Loss: 0.1316, Batch Time: 1.29 seconds
+Step [570/655], Loss: 0.4496, Batch Time: 1.78 seconds
+Step [580/655], Loss: 0.8106, Batch Time: 1.87 seconds
+Step [590/655], Loss: 0.3218, Batch Time: 0.90 seconds
+Step [600/655], Loss: 0.3160, Batch Time: 1.00 seconds
+Step [610/655], Loss: 0.7461, Batch Time: 1.01 seconds
+Step [620/655], Loss: 0.4086, Batch Time: 0.97 seconds
+Step [630/655], Loss: 0.2391, Batch Time: 1.02 seconds
+Step [640/655], Loss: 0.1038, Batch Time: 0.81 seconds
+Step [650/655], Loss: 0.3623, Batch Time: 0.97 seconds
+Epoch [1/10] completed. Average Loss: 0.4154
+Training Accuracy: 86.25%
+Total Time for Epoch 1: 835.44 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.50 seconds
+Validation Step [20/164], Batch Time: 0.42 seconds
+Validation Step [30/164], Batch Time: 0.42 seconds
+Validation Step [40/164], Batch Time: 0.43 seconds
+Validation Step [50/164], Batch Time: 0.44 seconds
+Validation Step [60/164], Batch Time: 0.41 seconds
+Validation Step [70/164], Batch Time: 0.68 seconds
+Validation Step [80/164], Batch Time: 0.47 seconds
+Validation Step [90/164], Batch Time: 0.49 seconds
+Validation Step [100/164], Batch Time: 0.56 seconds
+Validation Step [110/164], Batch Time: 0.42 seconds
+Validation Step [120/164], Batch Time: 0.46 seconds
+Validation Step [130/164], Batch Time: 0.44 seconds
+Validation Step [140/164], Batch Time: 0.21 seconds
+Validation Step [150/164], Batch Time: 0.20 seconds
+Validation Step [160/164], Batch Time: 0.24 seconds
+Validation Loss: 0.3190
+Validation Accuracy: 89.15%
+Total Validation Time: 98.38 seconds
+
+Epoch [2/10]
+Step [10/655], Loss: 0.2384, Batch Time: 1.55 seconds
+Step [20/655], Loss: 0.1707, Batch Time: 1.06 seconds
+Step [30/655], Loss: 0.2855, Batch Time: 0.90 seconds
+Step [40/655], Loss: 0.3317, Batch Time: 1.01 seconds
+Step [50/655], Loss: 0.2388, Batch Time: 0.83 seconds
+Step [60/655], Loss: 0.0534, Batch Time: 0.99 seconds
+Step [70/655], Loss: 0.1494, Batch Time: 1.78 seconds
+Step [80/655], Loss: 0.4293, Batch Time: 1.04 seconds
+Step [90/655], Loss: 0.2935, Batch Time: 1.57 seconds
+Step [100/655], Loss: 0.3405, Batch Time: 0.98 seconds
+Step [110/655], Loss: 0.2500, Batch Time: 1.10 seconds
+Step [120/655], Loss: 0.2196, Batch Time: 1.57 seconds
+Step [130/655], Loss: 0.3719, Batch Time: 1.02 seconds
+Step [140/655], Loss: 0.2990, Batch Time: 1.08 seconds
+Step [150/655], Loss: 0.2211, Batch Time: 1.00 seconds
+Step [160/655], Loss: 0.2750, Batch Time: 0.94 seconds
+Step [170/655], Loss: 0.1795, Batch Time: 1.70 seconds
+Step [180/655], Loss: 0.2014, Batch Time: 1.92 seconds
+Step [190/655], Loss: 0.0914, Batch Time: 1.01 seconds
+Step [200/655], Loss: 0.4732, Batch Time: 0.97 seconds
+Step [210/655], Loss: 0.3270, Batch Time: 1.01 seconds
+Step [220/655], Loss: 0.4087, Batch Time: 0.99 seconds
+Step [230/655], Loss: 0.1880, Batch Time: 1.03 seconds
+Step [240/655], Loss: 0.4387, Batch Time: 0.98 seconds
+Step [250/655], Loss: 0.2740, Batch Time: 1.92 seconds
+Step [260/655], Loss: 0.0254, Batch Time: 1.03 seconds
+Step [270/655], Loss: 0.4395, Batch Time: 0.99 seconds
+Step [280/655], Loss: 0.0893, Batch Time: 0.96 seconds
+Step [290/655], Loss: 0.1340, Batch Time: 2.11 seconds
+Step [300/655], Loss: 0.3106, Batch Time: 1.61 seconds
+Step [310/655], Loss: 0.4650, Batch Time: 1.71 seconds
+Step [320/655], Loss: 0.1582, Batch Time: 1.01 seconds
+Step [330/655], Loss: 0.2517, Batch Time: 1.93 seconds
+Step [340/655], Loss: 0.1742, Batch Time: 1.82 seconds
+Step [350/655], Loss: 0.1714, Batch Time: 0.96 seconds
+Step [360/655], Loss: 0.2204, Batch Time: 1.79 seconds
+Step [370/655], Loss: 0.1918, Batch Time: 1.18 seconds
+Step [380/655], Loss: 0.2387, Batch Time: 1.01 seconds
+Step [390/655], Loss: 0.1889, Batch Time: 1.00 seconds
+Step [400/655], Loss: 0.1106, Batch Time: 1.04 seconds
+Step [410/655], Loss: 0.2150, Batch Time: 1.03 seconds
+Step [420/655], Loss: 0.1966, Batch Time: 1.00 seconds
+Step [430/655], Loss: 0.1365, Batch Time: 1.20 seconds
+Step [440/655], Loss: 0.1049, Batch Time: 1.01 seconds
+Step [450/655], Loss: 0.0722, Batch Time: 1.00 seconds
+Step [460/655], Loss: 0.1231, Batch Time: 0.79 seconds
+Step [470/655], Loss: 0.2536, Batch Time: 0.95 seconds
+Step [480/655], Loss: 0.2198, Batch Time: 1.04 seconds
+Step [490/655], Loss: 0.4151, Batch Time: 1.01 seconds
+Step [500/655], Loss: 0.1387, Batch Time: 1.00 seconds
+Step [510/655], Loss: 0.5292, Batch Time: 1.01 seconds
+Step [520/655], Loss: 0.2125, Batch Time: 1.17 seconds
+Step [530/655], Loss: 0.4625, Batch Time: 1.00 seconds
+Step [540/655], Loss: 0.1613, Batch Time: 0.99 seconds
+Step [550/655], Loss: 0.1665, Batch Time: 0.94 seconds
+Step [560/655], Loss: 0.3919, Batch Time: 0.99 seconds
+Step [570/655], Loss: 0.1865, Batch Time: 1.02 seconds
+Step [580/655], Loss: 0.1837, Batch Time: 0.99 seconds
+Step [590/655], Loss: 0.0869, Batch Time: 1.69 seconds
+Step [600/655], Loss: 0.0370, Batch Time: 1.03 seconds
+Step [610/655], Loss: 0.3117, Batch Time: 0.98 seconds
+Step [620/655], Loss: 0.2844, Batch Time: 1.69 seconds
+Step [630/655], Loss: 0.2518, Batch Time: 1.00 seconds
+Step [640/655], Loss: 0.0794, Batch Time: 1.03 seconds
+Step [650/655], Loss: 0.2445, Batch Time: 1.00 seconds
+Epoch [2/10] completed. Average Loss: 0.2506
+Training Accuracy: 91.58%
+Total Time for Epoch 2: 851.83 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.20 seconds
+Validation Step [20/164], Batch Time: 0.37 seconds
+Validation Step [30/164], Batch Time: 0.43 seconds
+Validation Step [40/164], Batch Time: 0.42 seconds
+Validation Step [50/164], Batch Time: 0.41 seconds
+Validation Step [60/164], Batch Time: 0.43 seconds
+Validation Step [70/164], Batch Time: 0.42 seconds
+Validation Step [80/164], Batch Time: 0.20 seconds
+Validation Step [90/164], Batch Time: 0.43 seconds
+Validation Step [100/164], Batch Time: 0.47 seconds
+Validation Step [110/164], Batch Time: 0.25 seconds
+Validation Step [120/164], Batch Time: 0.22 seconds
+Validation Step [130/164], Batch Time: 0.20 seconds
+Validation Step [140/164], Batch Time: 0.42 seconds
+Validation Step [150/164], Batch Time: 0.20 seconds
+Validation Step [160/164], Batch Time: 0.42 seconds
+Validation Loss: 0.2859
+Validation Accuracy: 90.79%
+Total Validation Time: 90.50 seconds
+
+Epoch [3/10]
+Step [10/655], Loss: 0.3047, Batch Time: 1.69 seconds
+Step [20/655], Loss: 0.1556, Batch Time: 1.01 seconds
+Step [30/655], Loss: 0.0573, Batch Time: 1.08 seconds
+Step [40/655], Loss: 0.2620, Batch Time: 1.60 seconds
+Step [50/655], Loss: 0.2180, Batch Time: 0.99 seconds
+Step [60/655], Loss: 0.2112, Batch Time: 1.65 seconds
+Step [70/655], Loss: 0.1567, Batch Time: 1.20 seconds
+Step [80/655], Loss: 0.2792, Batch Time: 1.85 seconds
+Step [90/655], Loss: 0.1497, Batch Time: 1.67 seconds
+Step [100/655], Loss: 0.2204, Batch Time: 1.00 seconds
+Step [110/655], Loss: 0.4550, Batch Time: 0.81 seconds
+Step [120/655], Loss: 0.3443, Batch Time: 0.95 seconds
+Step [130/655], Loss: 0.3040, Batch Time: 1.28 seconds
+Step [140/655], Loss: 0.1954, Batch Time: 1.01 seconds
+Step [150/655], Loss: 0.1064, Batch Time: 1.01 seconds
+Step [160/655], Loss: 0.0392, Batch Time: 0.98 seconds
+Step [170/655], Loss: 0.0816, Batch Time: 1.05 seconds
+Step [180/655], Loss: 0.1588, Batch Time: 1.01 seconds
+Step [190/655], Loss: 0.1754, Batch Time: 1.01 seconds
+Step [200/655], Loss: 0.1636, Batch Time: 1.23 seconds
+Step [210/655], Loss: 0.0475, Batch Time: 1.00 seconds
+Step [220/655], Loss: 0.4268, Batch Time: 1.01 seconds
+Step [230/655], Loss: 0.1447, Batch Time: 1.02 seconds
+Step [240/655], Loss: 0.1294, Batch Time: 0.79 seconds
+Step [250/655], Loss: 0.0655, Batch Time: 1.80 seconds
+Step [260/655], Loss: 0.2902, Batch Time: 1.02 seconds
+Step [270/655], Loss: 0.0910, Batch Time: 1.34 seconds
+Step [280/655], Loss: 0.1168, Batch Time: 1.96 seconds
+Step [290/655], Loss: 0.3743, Batch Time: 0.97 seconds
+Step [300/655], Loss: 0.0403, Batch Time: 0.97 seconds
+Step [310/655], Loss: 0.0819, Batch Time: 1.00 seconds
+Step [320/655], Loss: 0.4574, Batch Time: 0.80 seconds
+Step [330/655], Loss: 0.1543, Batch Time: 1.64 seconds
+Step [340/655], Loss: 0.2386, Batch Time: 1.80 seconds
+Step [350/655], Loss: 0.2255, Batch Time: 1.63 seconds
+Step [360/655], Loss: 0.2853, Batch Time: 0.96 seconds
+Step [370/655], Loss: 0.1028, Batch Time: 0.96 seconds
+Step [380/655], Loss: 0.1613, Batch Time: 0.79 seconds
+Step [390/655], Loss: 0.1949, Batch Time: 0.85 seconds
+Step [400/655], Loss: 0.0841, Batch Time: 1.66 seconds
+Step [410/655], Loss: 0.0645, Batch Time: 1.00 seconds
+Step [420/655], Loss: 0.0755, Batch Time: 0.97 seconds
+Step [430/655], Loss: 0.1492, Batch Time: 1.00 seconds
+Step [440/655], Loss: 0.1878, Batch Time: 1.04 seconds
+Step [450/655], Loss: 0.1700, Batch Time: 1.00 seconds
+Step [460/655], Loss: 0.0567, Batch Time: 0.85 seconds
+Step [470/655], Loss: 0.2459, Batch Time: 1.02 seconds
+Step [480/655], Loss: 0.0336, Batch Time: 1.00 seconds
+Step [490/655], Loss: 0.1451, Batch Time: 0.88 seconds
+Step [500/655], Loss: 0.1812, Batch Time: 1.03 seconds
+Step [510/655], Loss: 0.1809, Batch Time: 1.37 seconds
+Step [520/655], Loss: 0.1948, Batch Time: 1.90 seconds
+Step [530/655], Loss: 0.3362, Batch Time: 1.02 seconds
+Step [540/655], Loss: 0.2035, Batch Time: 0.82 seconds
+Step [550/655], Loss: 0.0829, Batch Time: 1.86 seconds
+Step [560/655], Loss: 0.2095, Batch Time: 1.64 seconds
+Step [570/655], Loss: 0.0640, Batch Time: 1.00 seconds
+Step [580/655], Loss: 0.4118, Batch Time: 1.26 seconds
+Step [590/655], Loss: 0.3372, Batch Time: 1.00 seconds
+Step [600/655], Loss: 0.0771, Batch Time: 0.86 seconds
+Step [610/655], Loss: 0.1080, Batch Time: 1.17 seconds
+Step [620/655], Loss: 0.0361, Batch Time: 1.00 seconds
+Step [630/655], Loss: 0.1622, Batch Time: 1.00 seconds
+Step [640/655], Loss: 0.1497, Batch Time: 1.01 seconds
+Step [650/655], Loss: 0.2837, Batch Time: 1.57 seconds
+Epoch [3/10] completed. Average Loss: 0.1903
+Training Accuracy: 93.77%
+Total Time for Epoch 3: 785.55 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.47 seconds
+Validation Step [20/164], Batch Time: 0.41 seconds
+Validation Step [30/164], Batch Time: 0.39 seconds
+Validation Step [40/164], Batch Time: 0.45 seconds
+Validation Step [50/164], Batch Time: 0.42 seconds
+Validation Step [60/164], Batch Time: 0.42 seconds
+Validation Step [70/164], Batch Time: 0.41 seconds
+Validation Step [80/164], Batch Time: 0.42 seconds
+Validation Step [90/164], Batch Time: 0.42 seconds
+Validation Step [100/164], Batch Time: 0.43 seconds
+Validation Step [110/164], Batch Time: 0.42 seconds
+Validation Step [120/164], Batch Time: 0.20 seconds
+Validation Step [130/164], Batch Time: 0.62 seconds
+Validation Step [140/164], Batch Time: 0.23 seconds
+Validation Step [150/164], Batch Time: 0.22 seconds
+Validation Step [160/164], Batch Time: 0.26 seconds
+Validation Loss: 0.2452
+Validation Accuracy: 92.19%
+Total Validation Time: 94.30 seconds
+
+Epoch [4/10]
+Step [10/655], Loss: 0.1639, Batch Time: 1.03 seconds
+Step [20/655], Loss: 0.2851, Batch Time: 0.77 seconds
+Step [30/655], Loss: 0.1563, Batch Time: 1.58 seconds
+Step [40/655], Loss: 0.1778, Batch Time: 1.04 seconds
+Step [50/655], Loss: 0.0593, Batch Time: 1.04 seconds
+Step [60/655], Loss: 0.3031, Batch Time: 1.43 seconds
+Step [70/655], Loss: 0.0353, Batch Time: 0.98 seconds
+Step [80/655], Loss: 0.2776, Batch Time: 1.03 seconds
+Step [90/655], Loss: 0.1486, Batch Time: 1.00 seconds
+Step [100/655], Loss: 0.0385, Batch Time: 0.86 seconds
+Step [110/655], Loss: 0.2539, Batch Time: 1.44 seconds
+Step [120/655], Loss: 0.4710, Batch Time: 0.85 seconds
+Step [130/655], Loss: 0.2501, Batch Time: 1.40 seconds
+Step [140/655], Loss: 0.1997, Batch Time: 0.99 seconds
+Step [150/655], Loss: 0.0552, Batch Time: 1.58 seconds
+Step [160/655], Loss: 0.0839, Batch Time: 1.01 seconds
+Step [170/655], Loss: 0.1363, Batch Time: 1.01 seconds
+Step [180/655], Loss: 0.1262, Batch Time: 0.98 seconds
+Step [190/655], Loss: 0.1706, Batch Time: 0.92 seconds
+Step [200/655], Loss: 0.2414, Batch Time: 0.98 seconds
+Step [210/655], Loss: 0.2882, Batch Time: 0.99 seconds
+Step [220/655], Loss: 0.1236, Batch Time: 1.00 seconds
+Step [230/655], Loss: 0.1967, Batch Time: 2.35 seconds
+Step [240/655], Loss: 0.1264, Batch Time: 0.99 seconds
+Step [250/655], Loss: 0.0389, Batch Time: 1.04 seconds
+Step [260/655], Loss: 0.1071, Batch Time: 1.56 seconds
+Step [270/655], Loss: 0.0290, Batch Time: 0.98 seconds
+Step [280/655], Loss: 0.0592, Batch Time: 1.01 seconds
+Step [290/655], Loss: 0.0608, Batch Time: 0.98 seconds
+Step [300/655], Loss: 0.0727, Batch Time: 1.01 seconds
+Step [310/655], Loss: 0.1507, Batch Time: 1.00 seconds
+Step [320/655], Loss: 0.0355, Batch Time: 1.01 seconds
+Step [330/655], Loss: 0.0635, Batch Time: 0.99 seconds
+Step [340/655], Loss: 0.0961, Batch Time: 1.01 seconds
+Step [350/655], Loss: 0.2037, Batch Time: 0.97 seconds
+Step [360/655], Loss: 0.0886, Batch Time: 1.56 seconds
+Step [370/655], Loss: 0.1725, Batch Time: 1.00 seconds
+Step [380/655], Loss: 0.3018, Batch Time: 1.03 seconds
+Step [390/655], Loss: 0.1324, Batch Time: 1.00 seconds
+Step [400/655], Loss: 0.2968, Batch Time: 2.04 seconds
+Step [410/655], Loss: 0.2219, Batch Time: 1.06 seconds
+Step [420/655], Loss: 0.3692, Batch Time: 0.96 seconds
+Step [430/655], Loss: 0.2471, Batch Time: 0.89 seconds
+Step [440/655], Loss: 0.1208, Batch Time: 1.00 seconds
+Step [450/655], Loss: 0.0785, Batch Time: 1.02 seconds
+Step [460/655], Loss: 0.1572, Batch Time: 1.00 seconds
+Step [470/655], Loss: 0.5464, Batch Time: 1.11 seconds
+Step [480/655], Loss: 0.2491, Batch Time: 0.99 seconds
+Step [490/655], Loss: 0.1504, Batch Time: 1.04 seconds
+Step [500/655], Loss: 0.1570, Batch Time: 1.00 seconds
+Step [510/655], Loss: 0.1296, Batch Time: 1.79 seconds
+Step [520/655], Loss: 0.2328, Batch Time: 1.00 seconds
+Step [530/655], Loss: 0.2137, Batch Time: 1.01 seconds
+Step [540/655], Loss: 0.0774, Batch Time: 1.87 seconds
+Step [550/655], Loss: 0.0491, Batch Time: 1.37 seconds
+Step [560/655], Loss: 0.0687, Batch Time: 0.98 seconds
+Step [570/655], Loss: 0.0820, Batch Time: 1.02 seconds
+Step [580/655], Loss: 0.3291, Batch Time: 1.01 seconds
+Step [590/655], Loss: 0.0491, Batch Time: 0.95 seconds
+Step [600/655], Loss: 0.1491, Batch Time: 0.97 seconds
+Step [610/655], Loss: 0.1576, Batch Time: 1.74 seconds
+Step [620/655], Loss: 0.1316, Batch Time: 1.00 seconds
+Step [630/655], Loss: 0.2440, Batch Time: 1.98 seconds
+Step [640/655], Loss: 0.1254, Batch Time: 1.00 seconds
+Step [650/655], Loss: 0.1499, Batch Time: 1.03 seconds
+Epoch [4/10] completed. Average Loss: 0.1554
+Training Accuracy: 94.90%
+Total Time for Epoch 4: 778.41 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.51 seconds
+Validation Step [20/164], Batch Time: 0.44 seconds
+Validation Step [30/164], Batch Time: 0.43 seconds
+Validation Step [40/164], Batch Time: 0.44 seconds
+Validation Step [50/164], Batch Time: 0.44 seconds
+Validation Step [60/164], Batch Time: 0.41 seconds
+Validation Step [70/164], Batch Time: 0.19 seconds
+Validation Step [80/164], Batch Time: 0.43 seconds
+Validation Step [90/164], Batch Time: 0.44 seconds
+Validation Step [100/164], Batch Time: 0.46 seconds
+Validation Step [110/164], Batch Time: 0.48 seconds
+Validation Step [120/164], Batch Time: 0.41 seconds
+Validation Step [130/164], Batch Time: 0.47 seconds
+Validation Step [140/164], Batch Time: 0.46 seconds
+Validation Step [150/164], Batch Time: 0.42 seconds
+Validation Step [160/164], Batch Time: 0.41 seconds
+Validation Loss: 0.2550
+Validation Accuracy: 91.83%
+Total Validation Time: 89.64 seconds
+
+Epoch [5/10]
+Step [10/655], Loss: 0.0752, Batch Time: 1.86 seconds
+Step [20/655], Loss: 0.1694, Batch Time: 0.98 seconds
+Step [30/655], Loss: 0.0208, Batch Time: 2.07 seconds
+Step [40/655], Loss: 0.0862, Batch Time: 1.00 seconds
+Step [50/655], Loss: 0.0192, Batch Time: 0.79 seconds
+Step [60/655], Loss: 0.2212, Batch Time: 1.02 seconds
+Step [70/655], Loss: 0.0611, Batch Time: 0.91 seconds
+Step [80/655], Loss: 0.0233, Batch Time: 1.46 seconds
+Step [90/655], Loss: 0.1255, Batch Time: 1.00 seconds
+Step [100/655], Loss: 0.0904, Batch Time: 1.09 seconds
+Step [110/655], Loss: 0.0764, Batch Time: 0.99 seconds
+Step [120/655], Loss: 0.1589, Batch Time: 0.98 seconds
+Step [130/655], Loss: 0.1161, Batch Time: 1.00 seconds
+Step [140/655], Loss: 0.1685, Batch Time: 1.14 seconds
+Step [150/655], Loss: 0.0988, Batch Time: 0.99 seconds
+Step [160/655], Loss: 0.0551, Batch Time: 2.05 seconds
+Step [170/655], Loss: 0.1567, Batch Time: 0.99 seconds
+Step [180/655], Loss: 0.0894, Batch Time: 1.02 seconds
+Step [190/655], Loss: 0.0900, Batch Time: 1.33 seconds
+Step [200/655], Loss: 0.1183, Batch Time: 1.00 seconds
+Step [210/655], Loss: 0.3502, Batch Time: 1.01 seconds
+Step [220/655], Loss: 0.0707, Batch Time: 1.73 seconds
+Step [230/655], Loss: 0.0388, Batch Time: 0.98 seconds
+Step [240/655], Loss: 0.0169, Batch Time: 1.00 seconds
+Step [250/655], Loss: 0.4228, Batch Time: 1.00 seconds
+Step [260/655], Loss: 0.0575, Batch Time: 1.35 seconds
+Step [270/655], Loss: 0.0883, Batch Time: 1.01 seconds
+Step [280/655], Loss: 0.0300, Batch Time: 0.99 seconds
+Step [290/655], Loss: 0.0287, Batch Time: 1.20 seconds
+Step [300/655], Loss: 0.1778, Batch Time: 1.00 seconds
+Step [310/655], Loss: 0.1030, Batch Time: 1.01 seconds
+Step [320/655], Loss: 0.1339, Batch Time: 1.00 seconds
+Step [330/655], Loss: 0.0373, Batch Time: 0.99 seconds
+Step [340/655], Loss: 0.0700, Batch Time: 0.98 seconds
+Step [350/655], Loss: 0.0852, Batch Time: 1.55 seconds
+Step [360/655], Loss: 0.1042, Batch Time: 1.58 seconds
+Step [370/655], Loss: 0.0282, Batch Time: 0.78 seconds
+Step [380/655], Loss: 0.1980, Batch Time: 1.02 seconds
+Step [390/655], Loss: 0.0595, Batch Time: 1.05 seconds
+Step [400/655], Loss: 0.1044, Batch Time: 0.93 seconds
+Step [410/655], Loss: 0.2388, Batch Time: 0.95 seconds
+Step [420/655], Loss: 0.2252, Batch Time: 0.79 seconds
+Step [430/655], Loss: 0.3605, Batch Time: 0.79 seconds
+Step [440/655], Loss: 0.1636, Batch Time: 1.88 seconds
+Step [450/655], Loss: 0.1109, Batch Time: 0.97 seconds
+Step [460/655], Loss: 0.1415, Batch Time: 0.90 seconds
+Step [470/655], Loss: 0.1022, Batch Time: 0.85 seconds
+Step [480/655], Loss: 0.0529, Batch Time: 1.02 seconds
+Step [490/655], Loss: 0.0983, Batch Time: 0.98 seconds
+Step [500/655], Loss: 0.0171, Batch Time: 0.88 seconds
+Step [510/655], Loss: 0.0722, Batch Time: 0.97 seconds
+Step [520/655], Loss: 0.1066, Batch Time: 0.94 seconds
+Step [530/655], Loss: 0.1127, Batch Time: 0.98 seconds
+Step [540/655], Loss: 0.1684, Batch Time: 1.04 seconds
+Step [550/655], Loss: 0.1117, Batch Time: 1.29 seconds
+Step [560/655], Loss: 0.0542, Batch Time: 0.99 seconds
+Step [570/655], Loss: 0.0605, Batch Time: 1.43 seconds
+Step [580/655], Loss: 0.1732, Batch Time: 0.78 seconds
+Step [590/655], Loss: 0.1605, Batch Time: 1.04 seconds
+Step [600/655], Loss: 0.0593, Batch Time: 1.02 seconds
+Step [610/655], Loss: 0.1475, Batch Time: 1.05 seconds
+Step [620/655], Loss: 0.1194, Batch Time: 1.00 seconds
+Step [630/655], Loss: 0.0478, Batch Time: 0.97 seconds
+Step [640/655], Loss: 0.0654, Batch Time: 0.83 seconds
+Step [650/655], Loss: 0.2364, Batch Time: 1.55 seconds
+Epoch [5/10] completed. Average Loss: 0.1302
+Training Accuracy: 95.69%
+Total Time for Epoch 5: 785.68 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.28 seconds
+Validation Step [20/164], Batch Time: 0.43 seconds
+Validation Step [30/164], Batch Time: 0.42 seconds
+Validation Step [40/164], Batch Time: 0.41 seconds
+Validation Step [50/164], Batch Time: 0.48 seconds
+Validation Step [60/164], Batch Time: 0.42 seconds
+Validation Step [70/164], Batch Time: 0.21 seconds
+Validation Step [80/164], Batch Time: 0.42 seconds
+Validation Step [90/164], Batch Time: 0.20 seconds
+Validation Step [100/164], Batch Time: 0.20 seconds
+Validation Step [110/164], Batch Time: 0.22 seconds
+Validation Step [120/164], Batch Time: 0.41 seconds
+Validation Step [130/164], Batch Time: 0.47 seconds
+Validation Step [140/164], Batch Time: 0.20 seconds
+Validation Step [150/164], Batch Time: 0.45 seconds
+Validation Step [160/164], Batch Time: 0.43 seconds
+Validation Loss: 0.2300
+Validation Accuracy: 92.61%
+Total Validation Time: 94.10 seconds
+
+Epoch [6/10]
+Step [10/655], Loss: 0.0439, Batch Time: 1.00 seconds
+Step [20/655], Loss: 0.0713, Batch Time: 2.07 seconds
+Step [30/655], Loss: 0.2845, Batch Time: 1.19 seconds
+Step [40/655], Loss: 0.4518, Batch Time: 2.04 seconds
+Step [50/655], Loss: 0.1091, Batch Time: 1.99 seconds
+Step [60/655], Loss: 0.1136, Batch Time: 1.01 seconds
+Step [70/655], Loss: 0.0045, Batch Time: 1.37 seconds
+Step [80/655], Loss: 0.0708, Batch Time: 1.00 seconds
+Step [90/655], Loss: 0.0509, Batch Time: 1.01 seconds
+Step [100/655], Loss: 0.1069, Batch Time: 1.02 seconds
+Step [110/655], Loss: 0.1950, Batch Time: 0.98 seconds
+Step [120/655], Loss: 0.0753, Batch Time: 1.01 seconds
+Step [130/655], Loss: 0.0654, Batch Time: 1.00 seconds
+Step [140/655], Loss: 0.0520, Batch Time: 1.05 seconds
+Step [150/655], Loss: 0.2386, Batch Time: 1.55 seconds
+Step [160/655], Loss: 0.0782, Batch Time: 0.97 seconds
+Step [170/655], Loss: 0.0734, Batch Time: 0.99 seconds
+Step [180/655], Loss: 0.0618, Batch Time: 2.04 seconds
+Step [190/655], Loss: 0.0529, Batch Time: 1.04 seconds
+Step [200/655], Loss: 0.1237, Batch Time: 1.35 seconds
+Step [210/655], Loss: 0.0302, Batch Time: 1.86 seconds
+Step [220/655], Loss: 0.0708, Batch Time: 0.99 seconds
+Step [230/655], Loss: 0.0812, Batch Time: 1.00 seconds
+Step [240/655], Loss: 0.0304, Batch Time: 1.84 seconds
+Step [250/655], Loss: 0.1282, Batch Time: 1.26 seconds
+Step [260/655], Loss: 0.2593, Batch Time: 1.86 seconds
+Step [270/655], Loss: 0.0565, Batch Time: 0.89 seconds
+Step [280/655], Loss: 0.0157, Batch Time: 1.02 seconds
+Step [290/655], Loss: 0.2079, Batch Time: 0.94 seconds
+Step [300/655], Loss: 0.0753, Batch Time: 1.89 seconds
+Step [310/655], Loss: 0.3768, Batch Time: 1.69 seconds
+Step [320/655], Loss: 0.0564, Batch Time: 1.01 seconds
+Step [330/655], Loss: 0.0510, Batch Time: 1.87 seconds
+Step [340/655], Loss: 0.0459, Batch Time: 1.58 seconds
+Step [350/655], Loss: 0.0345, Batch Time: 0.99 seconds
+Step [360/655], Loss: 0.0736, Batch Time: 1.21 seconds
+Step [370/655], Loss: 0.1946, Batch Time: 1.02 seconds
+Step [380/655], Loss: 0.1379, Batch Time: 1.01 seconds
+Step [390/655], Loss: 0.0793, Batch Time: 1.00 seconds
+Step [400/655], Loss: 0.1928, Batch Time: 1.04 seconds
+Step [410/655], Loss: 0.1652, Batch Time: 0.81 seconds
+Step [420/655], Loss: 0.0903, Batch Time: 1.04 seconds
+Step [430/655], Loss: 0.1206, Batch Time: 1.03 seconds
+Step [440/655], Loss: 0.0271, Batch Time: 0.90 seconds
+Step [450/655], Loss: 0.0840, Batch Time: 1.44 seconds
+Step [460/655], Loss: 0.1270, Batch Time: 0.99 seconds
+Step [470/655], Loss: 0.0561, Batch Time: 1.00 seconds
+Step [480/655], Loss: 0.0761, Batch Time: 0.93 seconds
+Step [490/655], Loss: 0.0654, Batch Time: 0.99 seconds
+Step [500/655], Loss: 0.1396, Batch Time: 1.29 seconds
+Step [510/655], Loss: 0.0628, Batch Time: 1.00 seconds
+Step [520/655], Loss: 0.0576, Batch Time: 2.09 seconds
+Step [530/655], Loss: 0.0881, Batch Time: 1.00 seconds
+Step [540/655], Loss: 0.0865, Batch Time: 1.01 seconds
+Step [550/655], Loss: 0.3141, Batch Time: 1.00 seconds
+Step [560/655], Loss: 0.1536, Batch Time: 1.00 seconds
+Step [570/655], Loss: 0.0455, Batch Time: 1.27 seconds
+Step [580/655], Loss: 0.1962, Batch Time: 0.95 seconds
+Step [590/655], Loss: 0.2501, Batch Time: 0.88 seconds
+Step [600/655], Loss: 0.0250, Batch Time: 1.89 seconds
+Step [610/655], Loss: 0.1329, Batch Time: 0.97 seconds
+Step [620/655], Loss: 0.1635, Batch Time: 1.90 seconds
+Step [630/655], Loss: 0.1290, Batch Time: 1.00 seconds
+Step [640/655], Loss: 0.0738, Batch Time: 0.79 seconds
+Step [650/655], Loss: 0.1580, Batch Time: 1.00 seconds
+Epoch [6/10] completed. Average Loss: 0.1086
+Training Accuracy: 96.38%
+Total Time for Epoch 6: 838.95 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.22 seconds
+Validation Step [20/164], Batch Time: 0.43 seconds
+Validation Step [30/164], Batch Time: 0.42 seconds
+Validation Step [40/164], Batch Time: 0.20 seconds
+Validation Step [50/164], Batch Time: 0.43 seconds
+Validation Step [60/164], Batch Time: 0.42 seconds
+Validation Step [70/164], Batch Time: 0.20 seconds
+Validation Step [80/164], Batch Time: 0.63 seconds
+Validation Step [90/164], Batch Time: 0.42 seconds
+Validation Step [100/164], Batch Time: 0.20 seconds
+Validation Step [110/164], Batch Time: 0.48 seconds
+Validation Step [120/164], Batch Time: 0.20 seconds
+Validation Step [130/164], Batch Time: 0.53 seconds
+Validation Step [140/164], Batch Time: 0.40 seconds
+Validation Step [150/164], Batch Time: 0.44 seconds
+Validation Step [160/164], Batch Time: 0.42 seconds
+Validation Loss: 0.2461
+Validation Accuracy: 92.25%
+Total Validation Time: 83.96 seconds
+
+Epoch [7/10]
+Step [10/655], Loss: 0.0242, Batch Time: 1.05 seconds
+Step [20/655], Loss: 0.0092, Batch Time: 0.98 seconds
+Step [30/655], Loss: 0.2498, Batch Time: 1.00 seconds
+Step [40/655], Loss: 0.0164, Batch Time: 1.85 seconds
+Step [50/655], Loss: 0.0830, Batch Time: 0.97 seconds
+Step [60/655], Loss: 0.0922, Batch Time: 0.95 seconds
+Step [70/655], Loss: 0.1668, Batch Time: 0.79 seconds
+Step [80/655], Loss: 0.0537, Batch Time: 0.99 seconds
+Step [90/655], Loss: 0.0329, Batch Time: 1.73 seconds
+Step [100/655], Loss: 0.0887, Batch Time: 1.03 seconds
+Step [110/655], Loss: 0.0722, Batch Time: 1.98 seconds
+Step [120/655], Loss: 0.0502, Batch Time: 1.00 seconds
+Step [130/655], Loss: 0.1184, Batch Time: 1.35 seconds
+Step [140/655], Loss: 0.0121, Batch Time: 1.01 seconds
+Step [150/655], Loss: 0.0167, Batch Time: 1.54 seconds
+Step [160/655], Loss: 0.0208, Batch Time: 1.80 seconds
+Step [170/655], Loss: 0.0402, Batch Time: 0.81 seconds
+Step [180/655], Loss: 0.1603, Batch Time: 0.89 seconds
+Step [190/655], Loss: 0.1549, Batch Time: 0.99 seconds
+Step [200/655], Loss: 0.0614, Batch Time: 2.10 seconds
+Step [210/655], Loss: 0.0245, Batch Time: 0.98 seconds
+Step [220/655], Loss: 0.1616, Batch Time: 1.05 seconds
+Step [230/655], Loss: 0.0811, Batch Time: 1.53 seconds
+Step [240/655], Loss: 0.0311, Batch Time: 1.42 seconds
+Step [250/655], Loss: 0.0531, Batch Time: 0.86 seconds
+Step [260/655], Loss: 0.0734, Batch Time: 1.87 seconds
+Step [270/655], Loss: 0.0302, Batch Time: 1.04 seconds
+Step [280/655], Loss: 0.0955, Batch Time: 1.43 seconds
+Step [290/655], Loss: 0.0678, Batch Time: 1.86 seconds
+Step [300/655], Loss: 0.0116, Batch Time: 1.02 seconds
+Step [310/655], Loss: 0.0701, Batch Time: 1.83 seconds
+Step [320/655], Loss: 0.0331, Batch Time: 0.86 seconds
+Step [330/655], Loss: 0.2591, Batch Time: 0.99 seconds
+Step [340/655], Loss: 0.0961, Batch Time: 1.02 seconds
+Step [350/655], Loss: 0.1405, Batch Time: 1.00 seconds
+Step [360/655], Loss: 0.0115, Batch Time: 0.79 seconds
+Step [370/655], Loss: 0.0777, Batch Time: 0.98 seconds
+Step [380/655], Loss: 0.0345, Batch Time: 0.96 seconds
+Step [390/655], Loss: 0.1399, Batch Time: 0.91 seconds
+Step [400/655], Loss: 0.0264, Batch Time: 0.97 seconds
+Step [410/655], Loss: 0.3994, Batch Time: 0.90 seconds
+Step [420/655], Loss: 0.2374, Batch Time: 1.82 seconds
+Step [430/655], Loss: 0.1233, Batch Time: 1.59 seconds
+Step [440/655], Loss: 0.2127, Batch Time: 1.00 seconds
+Step [450/655], Loss: 0.1404, Batch Time: 0.79 seconds
+Step [460/655], Loss: 0.1546, Batch Time: 0.86 seconds
+Step [470/655], Loss: 0.1073, Batch Time: 1.79 seconds
+Step [480/655], Loss: 0.1362, Batch Time: 1.00 seconds
+Step [490/655], Loss: 0.0680, Batch Time: 1.02 seconds
+Step [500/655], Loss: 0.0758, Batch Time: 0.97 seconds
+Step [510/655], Loss: 0.1904, Batch Time: 1.03 seconds
+Step [520/655], Loss: 0.1066, Batch Time: 2.09 seconds
+Step [530/655], Loss: 0.0489, Batch Time: 0.96 seconds
+Step [540/655], Loss: 0.3256, Batch Time: 1.24 seconds
+Step [550/655], Loss: 0.0294, Batch Time: 0.87 seconds
+Step [560/655], Loss: 0.1173, Batch Time: 1.21 seconds
+Step [570/655], Loss: 0.0563, Batch Time: 1.84 seconds
+Step [580/655], Loss: 0.1167, Batch Time: 1.00 seconds
+Step [590/655], Loss: 0.0750, Batch Time: 1.28 seconds
+Step [600/655], Loss: 0.0486, Batch Time: 0.97 seconds
+Step [610/655], Loss: 0.0648, Batch Time: 0.86 seconds
+Step [620/655], Loss: 0.0249, Batch Time: 1.03 seconds
+Step [630/655], Loss: 0.0960, Batch Time: 1.57 seconds
+Step [640/655], Loss: 0.1955, Batch Time: 0.99 seconds
+Step [650/655], Loss: 0.0637, Batch Time: 0.99 seconds
+Epoch [7/10] completed. Average Loss: 0.0926
+Training Accuracy: 97.01%
+Total Time for Epoch 7: 793.22 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.20 seconds
+Validation Step [20/164], Batch Time: 0.43 seconds
+Validation Step [30/164], Batch Time: 0.20 seconds
+Validation Step [40/164], Batch Time: 0.37 seconds
+Validation Step [50/164], Batch Time: 0.33 seconds
+Validation Step [60/164], Batch Time: 0.41 seconds
+Validation Step [70/164], Batch Time: 0.42 seconds
+Validation Step [80/164], Batch Time: 0.22 seconds
+Validation Step [90/164], Batch Time: 0.26 seconds
+Validation Step [100/164], Batch Time: 0.43 seconds
+Validation Step [110/164], Batch Time: 0.41 seconds
+Validation Step [120/164], Batch Time: 0.45 seconds
+Validation Step [130/164], Batch Time: 0.41 seconds
+Validation Step [140/164], Batch Time: 0.20 seconds
+Validation Step [150/164], Batch Time: 0.42 seconds
+Validation Step [160/164], Batch Time: 0.42 seconds
+Validation Loss: 0.2554
+Validation Accuracy: 92.34%
+Total Validation Time: 90.69 seconds
+
+Epoch [8/10]
+Step [10/655], Loss: 0.1351, Batch Time: 1.02 seconds
+Step [20/655], Loss: 0.1613, Batch Time: 1.77 seconds
+Step [30/655], Loss: 0.0800, Batch Time: 0.79 seconds
+Step [40/655], Loss: 0.0332, Batch Time: 1.44 seconds
+Step [50/655], Loss: 0.0840, Batch Time: 1.00 seconds
+Step [60/655], Loss: 0.1117, Batch Time: 0.97 seconds
+Step [70/655], Loss: 0.1532, Batch Time: 1.00 seconds
+Step [80/655], Loss: 0.1160, Batch Time: 0.99 seconds
+Step [90/655], Loss: 0.1471, Batch Time: 0.95 seconds
+Step [100/655], Loss: 0.0771, Batch Time: 1.24 seconds
+Step [110/655], Loss: 0.0396, Batch Time: 1.00 seconds
+Step [120/655], Loss: 0.0772, Batch Time: 0.86 seconds
+Step [130/655], Loss: 0.0808, Batch Time: 1.75 seconds
+Step [140/655], Loss: 0.1201, Batch Time: 1.80 seconds
+Step [150/655], Loss: 0.0161, Batch Time: 1.98 seconds
+Step [160/655], Loss: 0.0195, Batch Time: 1.60 seconds
+Step [170/655], Loss: 0.2127, Batch Time: 1.01 seconds
+Step [180/655], Loss: 0.0256, Batch Time: 0.99 seconds
+Step [190/655], Loss: 0.1054, Batch Time: 0.92 seconds
+Step [200/655], Loss: 0.1783, Batch Time: 1.00 seconds
+Step [210/655], Loss: 0.1671, Batch Time: 0.97 seconds
+Step [220/655], Loss: 0.0545, Batch Time: 1.74 seconds
+Step [230/655], Loss: 0.0209, Batch Time: 1.00 seconds
+Step [240/655], Loss: 0.1660, Batch Time: 0.97 seconds
+Step [250/655], Loss: 0.0810, Batch Time: 1.03 seconds
+Step [260/655], Loss: 0.0811, Batch Time: 0.93 seconds
+Step [270/655], Loss: 0.0757, Batch Time: 0.87 seconds
+Step [280/655], Loss: 0.2482, Batch Time: 1.04 seconds
+Step [290/655], Loss: 0.1625, Batch Time: 1.04 seconds
+Step [300/655], Loss: 0.0160, Batch Time: 1.76 seconds
+Step [310/655], Loss: 0.0714, Batch Time: 0.98 seconds
+Step [320/655], Loss: 0.1189, Batch Time: 0.95 seconds
+Step [330/655], Loss: 0.1345, Batch Time: 1.90 seconds
+Step [340/655], Loss: 0.1530, Batch Time: 1.00 seconds
+Step [350/655], Loss: 0.0468, Batch Time: 1.97 seconds
+Step [360/655], Loss: 0.0883, Batch Time: 1.53 seconds
+Step [370/655], Loss: 0.4274, Batch Time: 0.95 seconds
+Step [380/655], Loss: 0.0579, Batch Time: 1.01 seconds
+Step [390/655], Loss: 0.2156, Batch Time: 1.00 seconds
+Step [400/655], Loss: 0.0343, Batch Time: 0.91 seconds
+Step [410/655], Loss: 0.0292, Batch Time: 1.96 seconds
+Step [420/655], Loss: 0.1354, Batch Time: 1.01 seconds
+Step [430/655], Loss: 0.0880, Batch Time: 1.60 seconds
+Step [440/655], Loss: 0.0732, Batch Time: 0.98 seconds
+Step [450/655], Loss: 0.1499, Batch Time: 1.00 seconds
+Step [460/655], Loss: 0.0544, Batch Time: 0.99 seconds
+Step [470/655], Loss: 0.0051, Batch Time: 0.99 seconds
+Step [480/655], Loss: 0.0840, Batch Time: 0.79 seconds
+Step [490/655], Loss: 0.0678, Batch Time: 0.78 seconds
+Step [500/655], Loss: 0.0722, Batch Time: 1.02 seconds
+Step [510/655], Loss: 0.0968, Batch Time: 1.01 seconds
+Step [520/655], Loss: 0.1032, Batch Time: 1.59 seconds
+Step [530/655], Loss: 0.0897, Batch Time: 1.01 seconds
+Step [540/655], Loss: 0.0254, Batch Time: 0.89 seconds
+Step [550/655], Loss: 0.0694, Batch Time: 1.90 seconds
+Step [560/655], Loss: 0.1136, Batch Time: 1.00 seconds
+Step [570/655], Loss: 0.0352, Batch Time: 1.81 seconds
+Step [580/655], Loss: 0.0065, Batch Time: 0.95 seconds
+Step [590/655], Loss: 0.0120, Batch Time: 0.86 seconds
+Step [600/655], Loss: 0.1590, Batch Time: 1.05 seconds
+Step [610/655], Loss: 0.0536, Batch Time: 0.86 seconds
+Step [620/655], Loss: 0.2218, Batch Time: 1.04 seconds
+Step [630/655], Loss: 0.2014, Batch Time: 1.01 seconds
+Step [640/655], Loss: 0.1565, Batch Time: 0.95 seconds
+Step [650/655], Loss: 0.0272, Batch Time: 1.79 seconds
+Epoch [8/10] completed. Average Loss: 0.0822
+Training Accuracy: 97.30%
+Total Time for Epoch 8: 783.48 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.42 seconds
+Validation Step [20/164], Batch Time: 0.42 seconds
+Validation Step [30/164], Batch Time: 0.44 seconds
+Validation Step [40/164], Batch Time: 0.43 seconds
+Validation Step [50/164], Batch Time: 0.41 seconds
+Validation Step [60/164], Batch Time: 0.42 seconds
+Validation Step [70/164], Batch Time: 0.42 seconds
+Validation Step [80/164], Batch Time: 0.45 seconds
+Validation Step [90/164], Batch Time: 0.44 seconds
+Validation Step [100/164], Batch Time: 0.43 seconds
+Validation Step [110/164], Batch Time: 0.42 seconds
+Validation Step [120/164], Batch Time: 0.45 seconds
+Validation Step [130/164], Batch Time: 0.42 seconds
+Validation Step [140/164], Batch Time: 0.42 seconds
+Validation Step [150/164], Batch Time: 0.41 seconds
+Validation Step [160/164], Batch Time: 0.42 seconds
+Validation Loss: 0.2357
+Validation Accuracy: 92.59%
+Total Validation Time: 90.32 seconds
+
+Epoch [9/10]
+Step [10/655], Loss: 0.0179, Batch Time: 1.04 seconds
+Step [20/655], Loss: 0.0724, Batch Time: 1.01 seconds
+Step [30/655], Loss: 0.1766, Batch Time: 1.00 seconds
+Step [40/655], Loss: 0.0194, Batch Time: 0.97 seconds
+Step [50/655], Loss: 0.0040, Batch Time: 0.93 seconds
+Step [60/655], Loss: 0.0228, Batch Time: 0.98 seconds
+Step [70/655], Loss: 0.2084, Batch Time: 1.91 seconds
+Step [80/655], Loss: 0.0346, Batch Time: 0.98 seconds
+Step [90/655], Loss: 0.0040, Batch Time: 1.46 seconds
+Step [100/655], Loss: 0.0387, Batch Time: 0.79 seconds
+Step [110/655], Loss: 0.1162, Batch Time: 0.78 seconds
+Step [120/655], Loss: 0.0921, Batch Time: 0.98 seconds
+Step [130/655], Loss: 0.0575, Batch Time: 0.99 seconds
+Step [140/655], Loss: 0.0282, Batch Time: 1.00 seconds
+Step [150/655], Loss: 0.0881, Batch Time: 0.99 seconds
+Step [160/655], Loss: 0.0086, Batch Time: 1.74 seconds
+Step [170/655], Loss: 0.0439, Batch Time: 1.00 seconds
+Step [180/655], Loss: 0.0497, Batch Time: 0.99 seconds
+Step [190/655], Loss: 0.1269, Batch Time: 0.97 seconds
+Step [200/655], Loss: 0.0313, Batch Time: 0.79 seconds
+Step [210/655], Loss: 0.0253, Batch Time: 0.98 seconds
+Step [220/655], Loss: 0.1208, Batch Time: 1.16 seconds
+Step [230/655], Loss: 0.0292, Batch Time: 0.97 seconds
+Step [240/655], Loss: 0.0280, Batch Time: 1.97 seconds
+Step [250/655], Loss: 0.0103, Batch Time: 0.80 seconds
+Step [260/655], Loss: 0.0966, Batch Time: 0.87 seconds
+Step [270/655], Loss: 0.0297, Batch Time: 0.95 seconds
+Step [280/655], Loss: 0.0518, Batch Time: 1.19 seconds
+Step [290/655], Loss: 0.1371, Batch Time: 1.00 seconds
+Step [300/655], Loss: 0.0144, Batch Time: 0.99 seconds
+Step [310/655], Loss: 0.0072, Batch Time: 0.98 seconds
+Step [320/655], Loss: 0.2916, Batch Time: 1.05 seconds
+Step [330/655], Loss: 0.1387, Batch Time: 1.01 seconds
+Step [340/655], Loss: 0.2213, Batch Time: 0.85 seconds
+Step [350/655], Loss: 0.0339, Batch Time: 1.80 seconds
+Step [360/655], Loss: 0.0468, Batch Time: 1.00 seconds
+Step [370/655], Loss: 0.0620, Batch Time: 0.85 seconds
+Step [380/655], Loss: 0.0408, Batch Time: 1.15 seconds
+Step [390/655], Loss: 0.0660, Batch Time: 0.99 seconds
+Step [400/655], Loss: 0.0785, Batch Time: 1.00 seconds
+Step [410/655], Loss: 0.1193, Batch Time: 1.53 seconds
+Step [420/655], Loss: 0.0337, Batch Time: 1.57 seconds
+Step [430/655], Loss: 0.1596, Batch Time: 0.98 seconds
+Step [440/655], Loss: 0.1220, Batch Time: 0.87 seconds
+Step [450/655], Loss: 0.2249, Batch Time: 0.98 seconds
+Step [460/655], Loss: 0.2185, Batch Time: 0.99 seconds
+Step [470/655], Loss: 0.0202, Batch Time: 1.00 seconds
+Step [480/655], Loss: 0.1558, Batch Time: 0.99 seconds
+Step [490/655], Loss: 0.1125, Batch Time: 0.78 seconds
+Step [500/655], Loss: 0.0325, Batch Time: 1.81 seconds
+Step [510/655], Loss: 0.3039, Batch Time: 1.83 seconds
+Step [520/655], Loss: 0.0522, Batch Time: 1.00 seconds
+Step [530/655], Loss: 0.2254, Batch Time: 0.97 seconds
+Step [540/655], Loss: 0.0326, Batch Time: 0.98 seconds
+Step [550/655], Loss: 0.1776, Batch Time: 0.79 seconds
+Step [560/655], Loss: 0.0623, Batch Time: 1.00 seconds
+Step [570/655], Loss: 0.1061, Batch Time: 1.00 seconds
+Step [580/655], Loss: 0.1201, Batch Time: 1.01 seconds
+Step [590/655], Loss: 0.0881, Batch Time: 1.00 seconds
+Step [600/655], Loss: 0.1664, Batch Time: 0.98 seconds
+Step [610/655], Loss: 0.0391, Batch Time: 1.72 seconds
+Step [620/655], Loss: 0.0043, Batch Time: 0.87 seconds
+Step [630/655], Loss: 0.0171, Batch Time: 1.63 seconds
+Step [640/655], Loss: 0.0506, Batch Time: 0.99 seconds
+Step [650/655], Loss: 0.0752, Batch Time: 1.99 seconds
+Epoch [9/10] completed. Average Loss: 0.0678
+Training Accuracy: 97.77%
+Total Time for Epoch 9: 783.59 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.38 seconds
+Validation Step [20/164], Batch Time: 0.22 seconds
+Validation Step [30/164], Batch Time: 0.23 seconds
+Validation Step [40/164], Batch Time: 0.41 seconds
+Validation Step [50/164], Batch Time: 0.20 seconds
+Validation Step [60/164], Batch Time: 0.45 seconds
+Validation Step [70/164], Batch Time: 0.43 seconds
+Validation Step [80/164], Batch Time: 0.20 seconds
+Validation Step [90/164], Batch Time: 0.44 seconds
+Validation Step [100/164], Batch Time: 0.48 seconds
+Validation Step [110/164], Batch Time: 0.20 seconds
+Validation Step [120/164], Batch Time: 0.43 seconds
+Validation Step [130/164], Batch Time: 0.19 seconds
+Validation Step [140/164], Batch Time: 0.20 seconds
+Validation Step [150/164], Batch Time: 0.48 seconds
+Validation Step [160/164], Batch Time: 0.42 seconds
+Validation Loss: 0.2480
+Validation Accuracy: 92.88%
+Total Validation Time: 88.44 seconds
+
+Epoch [10/10]
+Step [10/655], Loss: 0.0417, Batch Time: 0.95 seconds
+Step [20/655], Loss: 0.0225, Batch Time: 1.00 seconds
+Step [30/655], Loss: 0.0159, Batch Time: 1.01 seconds
+Step [40/655], Loss: 0.0174, Batch Time: 1.01 seconds
+Step [50/655], Loss: 0.0693, Batch Time: 1.02 seconds
+Step [60/655], Loss: 0.0394, Batch Time: 1.00 seconds
+Step [70/655], Loss: 0.0140, Batch Time: 1.87 seconds
+Step [80/655], Loss: 0.0858, Batch Time: 1.00 seconds
+Step [90/655], Loss: 0.0527, Batch Time: 1.14 seconds
+Step [100/655], Loss: 0.1507, Batch Time: 0.79 seconds
+Step [110/655], Loss: 0.0183, Batch Time: 1.78 seconds
+Step [120/655], Loss: 0.0173, Batch Time: 1.91 seconds
+Step [130/655], Loss: 0.0174, Batch Time: 0.99 seconds
+Step [140/655], Loss: 0.1395, Batch Time: 1.85 seconds
+Step [150/655], Loss: 0.0082, Batch Time: 1.01 seconds
+Step [160/655], Loss: 0.0893, Batch Time: 0.99 seconds
+Step [170/655], Loss: 0.0065, Batch Time: 1.56 seconds
+Step [180/655], Loss: 0.0029, Batch Time: 1.01 seconds
+Step [190/655], Loss: 0.0941, Batch Time: 1.75 seconds
+Step [200/655], Loss: 0.0142, Batch Time: 2.02 seconds
+Step [210/655], Loss: 0.0607, Batch Time: 1.05 seconds
+Step [220/655], Loss: 0.0029, Batch Time: 1.01 seconds
+Step [230/655], Loss: 0.0122, Batch Time: 0.78 seconds
+Step [240/655], Loss: 0.0534, Batch Time: 1.63 seconds
+Step [250/655], Loss: 0.1194, Batch Time: 0.87 seconds
+Step [260/655], Loss: 0.0953, Batch Time: 1.00 seconds
+Step [270/655], Loss: 0.0233, Batch Time: 1.00 seconds
+Step [280/655], Loss: 0.0731, Batch Time: 1.01 seconds
+Step [290/655], Loss: 0.0104, Batch Time: 1.90 seconds
+Step [300/655], Loss: 0.0187, Batch Time: 0.78 seconds
+Step [310/655], Loss: 0.0030, Batch Time: 1.03 seconds
+Step [320/655], Loss: 0.0746, Batch Time: 1.00 seconds
+Step [330/655], Loss: 0.0073, Batch Time: 1.93 seconds
+Step [340/655], Loss: 0.0417, Batch Time: 1.66 seconds
+Step [350/655], Loss: 0.0437, Batch Time: 1.01 seconds
+Step [360/655], Loss: 0.0531, Batch Time: 1.62 seconds
+Step [370/655], Loss: 0.0056, Batch Time: 1.89 seconds
+Step [380/655], Loss: 0.0973, Batch Time: 1.00 seconds
+Step [390/655], Loss: 0.0576, Batch Time: 1.65 seconds
+Step [400/655], Loss: 0.0244, Batch Time: 0.98 seconds
+Step [410/655], Loss: 0.0139, Batch Time: 0.78 seconds
+Step [420/655], Loss: 0.1415, Batch Time: 0.98 seconds
+Step [430/655], Loss: 0.1272, Batch Time: 0.95 seconds
+Step [440/655], Loss: 0.0082, Batch Time: 1.00 seconds
+Step [450/655], Loss: 0.0310, Batch Time: 1.63 seconds
+Step [460/655], Loss: 0.0569, Batch Time: 1.00 seconds
+Step [470/655], Loss: 0.0228, Batch Time: 0.91 seconds
+Step [480/655], Loss: 0.0653, Batch Time: 1.85 seconds
+Step [490/655], Loss: 0.0136, Batch Time: 0.79 seconds
+Step [500/655], Loss: 0.0058, Batch Time: 1.02 seconds
+Step [510/655], Loss: 0.0239, Batch Time: 1.01 seconds
+Step [520/655], Loss: 0.0400, Batch Time: 0.92 seconds
+Step [530/655], Loss: 0.0136, Batch Time: 1.01 seconds
+Step [540/655], Loss: 0.1624, Batch Time: 1.72 seconds
+Step [550/655], Loss: 0.2469, Batch Time: 0.87 seconds
+Step [560/655], Loss: 0.0888, Batch Time: 1.00 seconds
+Step [570/655], Loss: 0.0122, Batch Time: 0.96 seconds
+Step [580/655], Loss: 0.0511, Batch Time: 1.01 seconds
+Step [590/655], Loss: 0.0089, Batch Time: 0.87 seconds
+Step [600/655], Loss: 0.0203, Batch Time: 1.07 seconds
+Step [610/655], Loss: 0.0398, Batch Time: 1.03 seconds
+Step [620/655], Loss: 0.0343, Batch Time: 1.91 seconds
+Step [630/655], Loss: 0.0456, Batch Time: 1.02 seconds
+Step [640/655], Loss: 0.0269, Batch Time: 1.00 seconds
+Step [650/655], Loss: 0.0546, Batch Time: 1.02 seconds
+Epoch [10/10] completed. Average Loss: 0.0594
+Training Accuracy: 98.05%
+Total Time for Epoch 10: 793.13 seconds
+Starting Validation...
+Validation Step [10/164], Batch Time: 0.20 seconds
+Validation Step [20/164], Batch Time: 0.45 seconds
+Validation Step [30/164], Batch Time: 0.43 seconds
+Validation Step [40/164], Batch Time: 0.45 seconds
+Validation Step [50/164], Batch Time: 0.42 seconds
+Validation Step [60/164], Batch Time: 0.42 seconds
+Validation Step [70/164], Batch Time: 0.20 seconds
+Validation Step [80/164], Batch Time: 0.20 seconds
+Validation Step [90/164], Batch Time: 0.20 seconds
+Validation Step [100/164], Batch Time: 0.44 seconds
+Validation Step [110/164], Batch Time: 0.23 seconds
+Validation Step [120/164], Batch Time: 0.20 seconds
+Validation Step [130/164], Batch Time: 0.41 seconds
+Validation Step [140/164], Batch Time: 0.48 seconds
+Validation Step [150/164], Batch Time: 0.46 seconds
+Validation Step [160/164], Batch Time: 0.46 seconds
+Validation Loss: 0.2490
+Validation Accuracy: 92.97%
+Total Validation Time: 91.08 seconds

@@ -1,0 +1,3 @@
+Average Training Batch Time: 1.18
+Average Validation Batch Time: 0.38
+Final Validation Accuracy: 93.05
